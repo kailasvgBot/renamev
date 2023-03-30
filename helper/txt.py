@@ -40,9 +40,9 @@ class mr(object):
 ├👑 Instagram : <a href=https://t.me/kv_updates>C-Insta</a> 
 ├📕 LIBRARY : <a href=https://github.com/pyrogram>Pyrogram</a>
 ├✏️ LANGUAGE : <a href=https://www.python.org>Python 3</a>
-├💾 DATABASE : <a href=https://cloud.mongodb.com>MongoDB</a>
-├🌀 𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁1 : <a href=https://apps.koyeb.com>Koyeb</a>
-├🌀 𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁2 : <a href=https://dashboard.heroku.com>Heroku</a>
+├💾 Source-Code : <a href=https://t.me/Bot_Repo_Kittiyo/5>MongoDB</a>
+├🌀 𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁1 : <a href=https://t.me/Bot_Repo_Kittiyo/5>Koyeb</a>
+├🌀 𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁2 : <a href=https://t.me/Bot_Repo_Kittiyo/5>Heroku</a>
 ├📊 BUILD-STATUS : Python v3.6.8               
 ╰───────────────⍟
                                 """
