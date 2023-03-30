@@ -42,7 +42,7 @@ async def start(client, message):
         InlineKeyboardButton("😈 Developer 😈", callback_data='dev')
         ],[
         InlineKeyboardButton('📢 Updates', url='https://t.me/Kv_updates'),
-        InlineKeyboardButton('🤝 Support', url='https://t.me/Kerlaavilla')
+        InlineKeyboardButton('🤝 Support', url='https://t.me/Kerlavilla')
         ],[
         InlineKeyboardButton('⚡️ About', callback_data='about'),
         InlineKeyboardButton('🤕 Help', callback_data='help')
