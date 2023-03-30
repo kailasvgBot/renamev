@@ -36,8 +36,8 @@ class mr(object):
     ABOUT_TXT = """
 ╭───────────⍟
 ├🤖 The Name is : {}
-├👑 ADMIN-TG : <a href=https://t.me/LazyDeveloper>LazyDeveloper</a> 
-├👑 Instagram : <a href=https://www.instagram.com/LazyDeveloperrr>C-Insta</a> 
+├👑 ADMIN-TG : <a href=https://t.me/Kerala_villas_Admin>KVADMIN</a> 
+├👑 Instagram : <a href=https://t.me/kv_updates>C-Insta</a> 
 ├📕 LIBRARY : <a href=https://github.com/pyrogram>Pyrogram</a>
 ├✏️ LANGUAGE : <a href=https://www.python.org>Python 3</a>
 ├💾 DATABASE : <a href=https://cloud.mongodb.com>MongoDB</a>
