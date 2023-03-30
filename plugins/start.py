@@ -52,9 +52,6 @@ async def start(client, message):
         InlineKeyboardButton("🎬 Join Our Movie Channel 🎬", url='https://t.me/keralavillas')
         ],[
         InlineKeyboardButton("🤖 KV BOTS 🤖", url='https://t.me/kv_bots')
-        ],[
-        InlineKeyboardButton("📝Admin-TG", url='https://t.me/mRiderDM'),
-        InlineKeyboardButton("📝Admin-Insta", url='https://instagram.com/LazyDeveloperrr')
         ]
         ])
     if START_PIC:
