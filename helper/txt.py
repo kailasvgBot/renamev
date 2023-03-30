@@ -73,9 +73,9 @@ Example:- /set_caption 📕 File Name: {filename}
 
 » 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://t.me/Bot_Repo_Kittiyo/5>Watch Tutorial</a>
 
-• 😈 <a href=https://github.com/LazyDeveloperr>LazyDeveloper Github</a>
-• 😈 <a href=https://t.me/LazyDeveloper>LazyDeveloper Tg Channel</a>
-• 😈 <a href=https://t.me/mRiderDM>Direct-Msg-TG</a>
-• 😈 <a href=https://t.me/real_MoviesAdda1>Join Movies Adda</a>
-• 😈 <a href=https://t.me/GitHub_noob>Thanks- Github Noob</a>
+• 😈 <a href=https://t.me/kv_bots>KV Bots</a>
+• 😈 <a href=https://t.me/keralavilla>Join Movie Group</a>
+• 😈 <a href=https://t.me/Kerala_villas_Admin>Direct-Msg-TG</a>
+• 😈 <a href=https://t.me/keralavillas>Join Movies Channel</a>
+• 😈 <a href=https://t.me/kv_updates>Movies Updates</a>
 """
