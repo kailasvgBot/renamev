@@ -47,11 +47,11 @@ async def start(client, message):
         InlineKeyboardButton('⚡️ About', callback_data='about'),
         InlineKeyboardButton('🤕 Help', callback_data='help')
         ],[
-        InlineKeyboardButton("🙋🏻 How to make this BOT ? ", url='https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw')
+        InlineKeyboardButton("🎥 Join Our Movie Group 🎥", url='https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw')
         ],[
         InlineKeyboardButton("🎬 Join Our Movie Channel 🎬", url='https://t.me/keralavillas')
         ],[
-        InlineKeyboardButton("❤️ Subscribe YT ❤️", url='https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw')
+        InlineKeyboardButton("❤️ KV BOTS ❤️", url='https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw')
         ],[
         InlineKeyboardButton("📝Admin-TG", url='https://t.me/mRiderDM'),
         InlineKeyboardButton("📝Admin-Insta", url='https://instagram.com/LazyDeveloperrr')
