@@ -108,9 +108,6 @@ async def cb_handler(client, query: CallbackQuery):
         InlineKeyboardButton("🎬 Join Our Movie Channel 🎬", url='https://t.me/+WwDm2ByFlz80YTY9')
         ],[
         InlineKeyboardButton("❤️ Subscribe YT ❤️", url='https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw')
-        ],[
-        InlineKeyboardButton("📝Admin-TG", url='https://t.me/mRiderDM'),
-        InlineKeyboardButton("📝Admin-Insta", url='https://instagram.com/LazyDeveloperrr')
         ]
         ]
                 )
