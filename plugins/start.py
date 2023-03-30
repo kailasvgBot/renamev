@@ -158,7 +158,7 @@ async def cb_handler(client, query: CallbackQuery):
                #⚠️ don't change source code & source link ⚠️ #
                InlineKeyboardButton("❣️ Developer ❣️", url="https://www.instagram.com/LazyDeveloperrr")
                ],[
-               InlineKeyboardButton("🎥 Join our Movie Group 🎥", url='https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw')
+               InlineKeyboardButton("🎥 Join our Movie Group 🎥", url="https://t.me/KeralaVilla")
                ],[
                 InlineKeyboardButton("🎬 Join our Movie Channel 🎬", url="https://t.me/KeralaVillas")
                ],[
