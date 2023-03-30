@@ -134,7 +134,7 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("❣️ Developer ❣️", url="https://t.me/Kerala_villas_Admin")
+               InlineKeyboardButton("❣️ Source Code ❣️", url="https://t.me/Bot_Repo_Kittiyo/5")
                ],[
                InlineKeyboardButton("🎥 Join our Movie Group 🎥", url='https://t.me/keralavilla')
                ],[
@@ -150,7 +150,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=mr.DEV_TXT,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("❣️ Developer ❣️", url="https://t.me/Kerala_villas_Admin")
+               InlineKeyboardButton("❣️ Source Code ❣️", url="https://t.me/Bot_Repo_Kittiyo/5")
                ],[
                InlineKeyboardButton("🎥 Join our Movie Group 🎥", url="https://t.me/KeralaVilla")
                ],[
