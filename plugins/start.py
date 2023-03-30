@@ -103,11 +103,11 @@ async def cb_handler(client, query: CallbackQuery):
         InlineKeyboardButton('⚡️ About', callback_data='about'),
         InlineKeyboardButton('🤕 Help', callback_data='help')
         ],[
-        InlineKeyboardButton("🎥 Join Our Movie Group 🎥", url='https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw')
+        InlineKeyboardButton("🎥 Join Our Movie Group 🎥", url='https://t.me/keralavilla')
         ],[
-        InlineKeyboardButton("🎬 Join Our Movie Channel 🎬", url='https://t.me/+WwDm2ByFlz80YTY9')
+        InlineKeyboardButton("🎬 Join Our Movie Channel 🎬", url='https://t.me/keralavillas')
         ],[
-        InlineKeyboardButton("❤️ Subscribe YT ❤️", url='https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw')
+        InlineKeyboardButton("🤖 KV BOTS 🤖", url='https://t.me/kv_bots')
         ]
         ]
                 )
